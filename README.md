@@ -1,7 +1,35 @@
+# The Accuracy Cost of Weakness: A Theoretical Analysis of Fixed-Segment Weak Labeling for Events in Time
+
+![Animation](./animation/animation.gif)
+
+Official PyTorch implementation of the analysis and experiments presented in the paper  
+[**The Accuracy Cost of Weakness: A Theoretical Analysis of Fixed-Segment Weak Labeling for Events in Time**](https://openreview.net/forum?id=tTw8wXBQ18), by  
+[John Martinsson](https://johnmartinsson.org), [Tuomas Virtanen](https://homepages.tuni.fi/tuomas.virtanen/), [Maria Sandsten](https://www.maths.lu.se/english/research/staff/mariasandsten/), and [Olof Mogren](https://mogren.one).
+
+[Paper](https://openreview.net/forum?id=tTw8wXBQ18) | [Code](https://github.com/johnmartinsson/the-accuracy-cost-of-weakness)
+
+Published in **Transactions on Machine Learning Research (TMLR), September 2025**.  
+Reviewed openly on [OpenReview](https://openreview.net/forum?id=tTw8wXBQ18).
+
+---
+
+## Citation
+
+If you use this code or build upon the work, please cite as:
+
+```bibtex
+@article{Martinsson2025,
+    title={The Accuracy Cost of Weakness: A Theoretical Analysis of Fixed-Segment Weak Labeling for Events in Time},
+    author={John Martinsson and Tuomas Virtanen and Maria Sandsten and Olof Mogren},
+    journal={Transactions on Machine Learning Research},
+    year={2025},
+    month={September},
+    url={https://openreview.net/forum?id=tTw8wXBQ18}
+}
+```
+
 # Supplementary material
 These are the supplementary materials for the paper: "The Accuracy Cost of Weakness: A Theoretical Analysis of Fixed-Segment Weak Labeling for Events in Time".
-
-Under review at TMLR.
 
 ## Setup virtual environment
 A careful person will execute the commands in setup_venv.sh one by one so that nothing unintended goes wrong along the way. Otherwise, simply run
