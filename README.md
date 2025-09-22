@@ -28,9 +28,6 @@ If you use this code or build upon the work, please cite as:
 }
 ```
 
-# Supplementary material
-These are the supplementary materials for the paper: "The Accuracy Cost of Weakness: A Theoretical Analysis of Fixed-Segment Weak Labeling for Events in Time".
-
 ## Setup virtual environment
 A careful person will execute the commands in setup_venv.sh one by one so that nothing unintended goes wrong along the way. Otherwise, simply run
 
