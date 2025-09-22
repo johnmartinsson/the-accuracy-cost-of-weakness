@@ -1,0 +1,6 @@
+mkdir supplementary_material
+
+cp baby_event_lengths.npy cost_simulations.py definitions.py dog_event_lengths.npy illustrative_figures.py label_accuracy_simulations.py produce_figures.sh README.md requirements.txt setup_venv.sh symbolic_verification_of_analysis.ipynb theorems.py audioset_label_analysis.py offset_distribution_analysis.py supplementary_material
+
+zip -r supplementary_material.zip supplementary_material
+rm -rf supplementary_material

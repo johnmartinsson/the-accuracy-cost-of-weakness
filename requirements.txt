@@ -1,0 +1,7 @@
+numpy
+matplotlib
+tqdm
+intervaltree
+jupyter
+scipy
+sympy

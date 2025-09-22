@@ -1,0 +1,7 @@
+figures/
+plots/
+__pycache__/
+weak-labeling/
+animation
+.ipynb_checkpoints/
+data/
